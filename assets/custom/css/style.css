@@ -1507,7 +1507,8 @@ button, input, select, textarea {
 .timeline-bg03,
 .timeline-bg03-01,
 .timeline-bg04,
-.timeline-bg04-01 {
+.timeline-bg04-01,
+.timeline-bg05-01 {
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
@@ -1558,6 +1559,16 @@ button, input, select, textarea {
 
 .timeline-bg04-01 {
   background: url("../images/timeline-4-01.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bg05 {
+  background: url("../images/timeline-5.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bg05-01 {
+  background: url("../images/timeline-5-01.jpg");
   background-position: center;
   background-size: cover; }
 

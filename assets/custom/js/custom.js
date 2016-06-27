@@ -436,6 +436,7 @@
                         scaleControl: false,
                         mapTypeControl: false,
                         scrollwheel: false,
+                        key: 'AIzaSyBClxNima7d4L42e0f_5jwIbm8s1SoZvFs',
                         mapTypeControlOptions: {
                             mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
                         }

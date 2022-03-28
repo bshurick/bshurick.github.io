@@ -1508,7 +1508,8 @@ button, input, select, textarea {
 .timeline-bg03-01,
 .timeline-bg04,
 .timeline-bg04-01,
-.timeline-bg05-01 {
+.timeline-bg05-01,
+.timeline-bg06-01 {
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
@@ -1571,6 +1572,11 @@ button, input, select, textarea {
   background: url("../images/timeline-5-01.jpg");
   background-position: center;
   background-size: cover; }
+
+  .timeline-bg06-01 {
+    background: url("../images/timeline-6-01.jpg");
+    background-position: center;
+    background-size: cover; }  
 
 /* Counts Block */
 .bg-light .counts {
